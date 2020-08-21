@@ -1,5 +1,2 @@
 [run]
-include=
-	cleverhans/
-omit=
-	*/test_*
+omit=*/test_*
