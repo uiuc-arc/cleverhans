@@ -362,7 +362,7 @@ class TestSPSA(CommonAttackProperties):
         'eps': .5,
         'clip_min': -5,
         'clip_max': 5,
-        'nb_iter': 50,
+        'nb_iter': 30,
     }
 
   def test_invalid_input(self):
