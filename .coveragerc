@@ -1,0 +1,5 @@
+[run]
+include=
+	cleverhans/
+omit=
+	*/test_*
